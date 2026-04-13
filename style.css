@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #e9e9eb;
+  background-color: #454547;
   font-family: Arial, sans-serif;
   color: #222;
   line-height: 1.5;
@@ -56,7 +56,7 @@ body {
   margin: 0 16px;
 }
 
-.detail-wrap {
+.detail {
   display: flex;
   flex-direction: column;
   gap: 28px;
