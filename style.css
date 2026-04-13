@@ -7,3 +7,19 @@ div.container{
     height: 100vh;
     float: left;
 }
+
+div.container > div{
+    box-sizing: border-box;
+    width: 50%;
+    height: 100%;
+    float: left;
+
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    color: rgb(103, 45, 218);   
+}
